@@ -192,6 +192,34 @@
 .btn-primary3:hover {
     background-color: rgb(158, 160, 155);
 }
+
+/* YOUNUS SORKAR */
+.younus-sorkar-peragraph{
+    width: 1416px;
+    height: 160px;
+    background-color: white;
+    margin: auto;
+    padding: 48px 24px;
+    border-radius: 16px;
+    margin-bottom: 80px;
+    background-image: url("../images/quote-bg.png");
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: 24px 23px;
+    
+}
+.younus-sorkar-description{
+    color: rgba(14, 14, 14, 0.8);
+    margin-bottom: 12px;
+}
+.sorkar-name{
+    font-weight: 600;
+    font-size: 20px;
+}
+.sorkar-footer{
+    color: rgba(14, 14, 14, 0.6);
+}
+
 .btn-primary-news{
     background-color: #006A50;
     /* background-color: #FD6E0A; */
