@@ -61,6 +61,7 @@
     cursor: pointer;
     /* padding: 34px 17px; */
     /* align-items: center; */    
+    transition: 0.5s;
 }
 .btn-primary:hover {
     background-color: rgb(158, 160, 155);
@@ -140,7 +141,8 @@
     font-weight: 600;
     cursor: pointer;
     /* padding: 34px 17px; */
-    /* align-items: center; */     
+    /* align-items: center; */  
+    transition: 0.5s;   
 }
 .btn-primary1:hover {
     background-color: rgb(158, 160, 155);
@@ -157,7 +159,8 @@
     font-weight: 600;
     cursor: pointer;
     /* padding: 34px 17px; */
-    /* align-items: center; */     
+    /* align-items: center; */   
+    transition: 0.5s;  
 }
 
 .btn-primary2:hover {
@@ -177,6 +180,7 @@
     cursor: pointer;
     /* padding: 34px 17px; */
     /* align-items: center; */ 
+    transition: 0.5s;
     
 }
 .btn-primary3:hover {
