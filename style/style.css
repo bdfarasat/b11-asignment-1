@@ -201,6 +201,7 @@
     margin: auto;
     padding: 48px 24px;
     border-radius: 16px;
+    border: solid rgba(14, 14, 14, 0.15) 1px;
     margin-bottom: 80px;
     background-image: url("../images/quote-bg.png");
     background-repeat: no-repeat;
