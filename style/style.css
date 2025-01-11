@@ -1,3 +1,7 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 .fira-sans-normal{
     font-family: "Fira Sans", serif;
     font-optical-sizing: auto;
@@ -64,4 +68,117 @@
 .banner-image{
     margin-top: 80px;
     margin-bottom: 117px;
+}
+/* Vision starts here */
+.vision-section{
+    margin-left: 80px;
+    /* margin-right: 160px; */
+    margin-top: 80px;
+}
+.section-title{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    
+}
+.vision-discription{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+}
+.vision-boxs{
+    display: flex;
+    justify-content: space-between;
+    /* border: solid black 1px;     */
+    column-gap: 24px; 
+    width: 1440px;
+    /* padding: 100px 80Px; */
+
+    
+}
+.vision-box-heading{
+    margin-bottom: 12px;
+}
+.vision-discription{
+    margin-bottom: 24px;
+}
+.vision-box-1{
+    padding: 32px 32px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    width: 410.67px;
+    height: 325px;
+}
+.img1{
+    margin-bottom: 24px;
+}
+.vision-box-2{
+    padding: 32px 32px;
+    background-color: rgba(43, 172, 122, 0.2);
+    border-radius: 16px;
+    width: 410.67px;
+    height: 325px;
+}
+.vision-box-3{
+    padding: 32px 32px;
+    background-color: rgba(206, 176, 10, 0.2);
+    border-radius: 16px;
+    width: 410.67px;
+    height: 325px;
+}
+.vision-discription{
+    margin-bottom: 50px;
+}
+.btn-primary1{
+    background-color: #67d310;
+    /* background-color: #FD6E0A; */
+    color: #FFFFFF;
+    border: none;
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    /* padding: 34px 17px; */
+    /* align-items: center; */     
+}
+.btn-primary1:hover {
+    background-color: rgb(158, 160, 155);
+}
+.btn-primary2{
+    background-color: #d6e227;
+    /* background-color: #FD6E0A; */
+    color: #FFFFFF;
+    border: none;
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    /* padding: 34px 17px; */
+    /* align-items: center; */     
+}
+
+.btn-primary2:hover {
+    background-color: rgb(158, 160, 155);
+}
+
+.btn-primary3{
+    background-color: #c96b8f;
+    /* background-color: #FD6E0A; */
+    color: #FFFFFF;
+    border: none;
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    /* padding: 34px 17px; */
+    /* align-items: center; */ 
+    
+}
+.btn-primary3:hover {
+    background-color: rgb(158, 160, 155);
 }
