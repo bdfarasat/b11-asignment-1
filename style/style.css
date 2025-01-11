@@ -114,7 +114,7 @@
 }
 .vision-box-2{
     padding: 32px 32px;
-    background-color: rgba(43, 172, 122, 0.2);
+    background-color: rgba(16, 199, 10, 0.2);
     border-radius: 16px;
     width: 410.67px;
     height: 325px;
@@ -185,4 +185,19 @@
 }
 .btn-primary3:hover {
     background-color: rgb(158, 160, 155);
+}
+.btn-primary-news{
+    background-color: #006A50;
+    /* background-color: #FD6E0A; */
+    color: #FFFFFF;
+    border: none;
+    width: 139px;
+    height: 48px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    /* padding: 34px 17px; */
+    /* align-items: center; */ 
+    transition: 0.5s;
 }
